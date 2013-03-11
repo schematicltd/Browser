@@ -31,7 +31,7 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author Touch
+ * @author Graham Seed
  */
 public class WebBrowser extends javax.swing.JFrame {
 
