@@ -31,6 +31,7 @@ import javax.swing.SwingUtilities;
 
 /**
  * Javadoc added by Graham
+ * Another Javadoc added by Graham
  * @author Graham Seed
  */
 public class WebBrowser extends javax.swing.JFrame {
