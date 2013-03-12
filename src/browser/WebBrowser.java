@@ -30,7 +30,7 @@ import javax.swing.SwingUtilities;
  */
 
 /**
- *
+ * Javadoc added by Graham
  * @author Graham Seed
  */
 public class WebBrowser extends javax.swing.JFrame {
